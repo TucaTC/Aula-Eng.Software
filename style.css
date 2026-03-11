@@ -21,6 +21,7 @@ h1 {
     background-size: cover; /* Ajusta a imagem para cobrir o elemento */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita repetição */
+    border-radius: 30px;
 }
 h2 {
     color: rgb(158, 106, 51);
