@@ -14,6 +14,14 @@ body {
 h1 {
     color: rgb(94, 75, 54);
 }
+.minha-div {
+    width: 50%;
+    height: 500px;
+    background-image: url('https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-chocolate-facil-e-barato-rspxk8nc.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir o elemento */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição */
+}
 h2 {
     color: rgb(158, 106, 51);
 }
