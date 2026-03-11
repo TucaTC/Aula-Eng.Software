@@ -6,9 +6,20 @@
 }
 
 body {
-    margin: 0;
+    margin: 20;
+    background-color: rgb(174, 211, 225);
+    font-size: 25px;
 }
 
 h1 {
-    color: rgb(1, 238, 255);
+    color: rgb(94, 75, 54);
+}
+h2 {
+    color: rgb(158, 106, 51);
+}
+ul {
+    color: rgb(38, 48, 52);
+}
+ol {
+    color: rgb(38, 48, 52);
 }
